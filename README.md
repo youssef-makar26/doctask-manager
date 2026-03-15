@@ -1,3 +1,9 @@
+## Project Architecture
+
+![Project Architecture](docker-photo.png)
+
+
+
 # Docker Task Manager Project
 
 This project runs a Task Manager web application using Docker.
